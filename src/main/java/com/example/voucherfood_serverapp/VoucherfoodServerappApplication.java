@@ -8,6 +8,7 @@ public class VoucherfoodServerappApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VoucherfoodServerappApplication.class, args);
+		System.out.println("Server is running...");
 	}
 
 }
